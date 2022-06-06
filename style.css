@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 
@@ -12,7 +13,7 @@ body{
     grid-template:
     'header header header'70px
     'left-side main right-side'1fr/
-    500px 1fr 370px;
+    500px 1fr 330px;
 }
 
 
@@ -20,7 +21,7 @@ body{
 
 .header{
     grid-area:header;
-background-color: #ff00ff50;
+/* background-color: #ff00ff50; */
 }
 
 
