@@ -27,7 +27,7 @@ body{
 
 .left-side{
     grid-area:left-side;
-    background-color:#0000ff50;
+    /* background-color:#0000ff50; */
 }
 
 
