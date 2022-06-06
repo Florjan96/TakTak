@@ -1,0 +1,56 @@
+.header{
+    background-color:white;
+}
+
+
+.header-left{
+    display:grid;
+    grid-template-columns:34px 100px;
+    padding-top: 20px;
+    padding-left:100px
+}
+
+
+
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+
+.header-middle input{
+
+    width:350px;
+    border-radius:30px;
+    height: 40px;
+    background-color: #f1f1f2;
+    border:none;
+
+}
+
+
+
+.header-right{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    padding-left:200px;
+}
+
+.header-right .upload button{
+    width:90px;
+    height:40px;
+    border-radius: 5px;
+border:none
+}
+
+.header-right .login button{
+    width:90px;
+    height:40px;
+    border-radius: 5px;
+border:none;
+background-color: red;
+color:white;
+font-size: bold;
+}
