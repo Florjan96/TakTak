@@ -88,7 +88,138 @@ border-bottom:2px solid #f1f1f2;
     padding-top:35px;
 }
 
+.left-side-middle-text{
+    color:#cacacd;
+}
+
 .left-side-middle-button button{
-padding:20px
-    /* width:240px */
+padding:10px 100px 10px 100px;
+font-weight: bold;
+font-size:20px;
+border-color: red;
+color:red;
+background-color: white;
+}
+
+.suggested-accounts{
+    padding-left:200px;
+    padding-top:15px;
+    color:#707278;
+}
+
+
+
+.left-side-acc-ac{
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding-left:79px;
+    padding-top:10px;
+
+}
+
+
+.left-side-acc-ac img{
+    border-radius: 50px;
+}
+
+
+.left-side-acc-names p{
+    padding-top:5px;
+    font-size: 15px;
+    color:#b3b3b3;
+
+}
+
+
+
+
+
+.left-side-acc-ac2{
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding-left:20px;
+    padding-top:12px;
+
+}
+
+
+.left-side-acc-ac2 img{
+    border-radius: 50px;
+}
+
+
+.left-side-acc-names2 p{
+    padding-top:5px;
+    font-size: 15px;
+    color:#b3b3b3;
+
+}
+
+
+
+
+
+
+.left-side-acc-ac4{
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding-left:30px;
+    padding-top:12px;
+
+}
+
+
+.left-side-acc-ac4 img{
+    border-radius: 50px;
+}
+
+
+.left-side-acc-names4 p{
+    padding-top:5px;
+    font-size: 15px;
+    color:#b3b3b3;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.left-side-acc-ac5{
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding-left:22px;
+    padding-top:12px;
+
+}
+
+
+.left-side-acc-ac5 img{
+    border-radius: 50px;
+}
+
+
+.left-side-acc-names5 p{
+    padding-top:5px;
+    font-size: 15px;
+    color:#b3b3b3;
+
 }
