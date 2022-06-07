@@ -13,7 +13,7 @@ body{
     grid-template:
     'header header header'70px
     'left-side main right-side'1fr/
-    500px 1fr 330px;
+    500px 1fr 340px;
 }
 
 
@@ -38,5 +38,5 @@ body{
 
 
 .right-side{
-    background-color: #ff000070;
+    /* background-color: #ff000070; */
 }
