@@ -1,6 +1,6 @@
 
 .right-side{
-    border-left:2px solid #f1f1f2;
+    border-left:2px solid #dedee0;
     
 }
 
@@ -12,6 +12,7 @@
 
 .what h2{
     text-align: center;
+    padding:8px;
     
 }
 
@@ -19,7 +20,7 @@
 
 .right-side-main{
     border:1px solid;
-  background-color: rgb(196, 192, 192);
+  background-color: rgb(230, 230, 230);
   border-radius: 7px;
   border:none;
   width:300px;
@@ -34,7 +35,7 @@
 }
 
 .right-side-news-leftText h5{
-    padding-bottom:5px;
+    padding-bottom:9px;
 }
 
 
