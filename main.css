@@ -1,0 +1,44 @@
+.main_profile{
+    display: grid;
+    grid-auto-flow: column;
+    align-content: center;
+    justify-content: center;
+    gap:1rem;
+    padding-top:50px
+}
+
+
+
+
+.main_profile-photo img{
+    border-radius:50px;
+    
+}
+
+
+
+
+
+
+
+.main_profile-info p{
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+
+
+.main_profile-info img{
+    border-radius: 8px;
+}
+
+
+.main_profile-button button{
+    margin-left:150px;
+    padding:5px 22px 5px 22px;
+    border-radius: 5px;
+    border-color:red;
+color:red;
+background-color: white;
+font-weight: bold;
+}

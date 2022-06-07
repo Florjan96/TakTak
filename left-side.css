@@ -3,6 +3,7 @@
     align-content: center;
     gap:3rem;
     padding-top:30px;
+    overflow: scroll;
    
 
 }

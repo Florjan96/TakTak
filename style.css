@@ -33,7 +33,7 @@ body{
 
 .main{
     grid-area:main;
-    background-color: #00ff0040;
+    /* background-color: #00ff0040; */
 }
 
 
