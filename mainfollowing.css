@@ -1,0 +1,89 @@
+.main{
+
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left:90px;
+    padding-top:30px;
+    gap:10px
+}
+
+.story1 img{
+    border-radius: 10px;
+}
+
+.story1 img:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+.story2 img{
+    border-radius: 10px;
+}
+
+.story2 img:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+.story3 img{
+    border-radius: 10px;
+}
+
+.story3 img:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+.story4 img{
+    border-radius: 10px;
+}
+
+.story4 img:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+.story5 img{
+    border-radius: 10px;
+}
+
+.story5 img:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+.story6 img{
+    border-radius: 10px;
+}
+
+.story6 img:hover{
+    transform: scale(1.1);
+}

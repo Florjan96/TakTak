@@ -363,3 +363,44 @@ padding-left:90px;
         padding-top:20px;
 
     }
+
+
+
+    .following-text a{
+        text-decoration: none;
+        color:black;
+    }
+
+
+    .following:hover{
+        background-color:#f1f1f2;
+        border-radius:5px;
+    }
+
+
+
+
+    .foryou-text a{
+        text-decoration: none;
+        color:black;   
+    }
+
+
+    .foryou:hover{
+        background-color:#f1f1f2;
+        border-radius:5px;
+    }
+
+
+
+    
+    .live a{
+        text-decoration: none;
+        color:black;   
+    }
+
+
+    .live:hover{
+        background-color:#f1f1f2;
+        border-radius:5px;
+    }
