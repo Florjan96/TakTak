@@ -38,5 +38,33 @@ body{
 
 
 .right-side{
+    grid-area:right-side;
     /* background-color: #ff000070; */
+}
+
+
+
+.taktak h2 a{
+    text-decoration: none;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+@media screen and (max-width:800px) {
+
+     body{
+      
+         grid-template:
+        'header header header'70px
+        'left-side main '1fr/
+        500px 1fr ; 
+     }  
+    
+    .right-side{
+        display:none;
+    }
+    
 }

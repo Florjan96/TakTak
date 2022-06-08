@@ -99,9 +99,25 @@ padding:10px 100px 10px 100px;
 font-weight: bold;
 font-size:20px;
 border-color: red;
+border:0.5px solid;
 color:red;
 background-color: white;
+border-radius:5px;
 }
+
+
+.left-side-middle-button-link{
+    color:red;
+    text-decoration: none;
+}
+
+
+.left-side-middle-button button:hover{
+    background-color: #fadfe2;
+}
+
+
+
 
 .suggested-accounts{
     padding-left:200px;
@@ -259,6 +275,7 @@ border-bottom:2px solid #f1f1f2;
     background-color: white;
     color:#a6a6a8;
     margin-bottom:20px;
+    border:0.5px solid;
 }
 
 .left-side-bottom{

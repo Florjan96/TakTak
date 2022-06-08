@@ -38,7 +38,19 @@
     padding:5px 22px 5px 22px;
     border-radius: 5px;
     border-color:#fe2c55;
+    border:0.5px solid;
 color:#fe2c55;
 background-color: white;
 font-style: bold;
+}
+
+
+.main_profile-button button a{
+    color:#fe2c55;
+    text-decoration: none;
+
+}
+
+.main_profile-button  :hover{
+    background-color: #f5cdd4;
 }
