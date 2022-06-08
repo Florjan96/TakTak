@@ -46,6 +46,12 @@
 border:none
 }
 
+.header-right .upload button a{
+    text-decoration: none;
+}
+
+
+
 .header-right .login button{
     width:90px;
     height:40px;
@@ -54,4 +60,10 @@ border:none;
 background-color: red;
 color:white;
 font-size: bold;
+}
+
+
+.header-right .login button a{
+    text-decoration: none;
+    color:white;
 }

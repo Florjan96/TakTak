@@ -52,6 +52,18 @@ body{
 
 
 
+::-webkit-input-placeholder{
+    color:#757575;
+    font-size:15px;
+    padding-left:10px;
+}
+
+
+
+
+
+
+
 
 @media screen and (max-width:800px) {
 
